@@ -6,5 +6,13 @@
     "skills": [],
     "demo": "https://surya-0987.github.io/React-project/",
     "source": "https://github.com/surya-0987/React-project.git"
+  },
+  {
+    "title": "Netflix Clone",
+    "imageSrc": "projects/netflix.png",
+    "description": "It is Clone of Netflix Home page.",
+    "skills": [],
+    "demo": "https://surya-0987.github.io/Netflix_clone/ ",
+    "source": "https://github.com/surya-0987/Netflix_clone.git"
   }
 ]
