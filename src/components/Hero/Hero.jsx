@@ -11,7 +11,7 @@ export const Hero = () => {
         <p className={styles.description}>
           I'm a MEARN Stack Developer
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:suryamahajan2003@email.com" className={styles.contactBtn}>
           Contact Me
         </a>
        
