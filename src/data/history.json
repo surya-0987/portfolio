@@ -1,11 +1,11 @@
 [
   {
-    "role": "Xth Standard",
-    "institute": "SRI CHANDRA TECHNO SCHOOL",
+    "role": "B.Tech",
+    "institute": "PARUL UNIVERSITY",
     "startDate": "",
     "endDate": "",
-    "experiences": ["9.8 CGPA"],
-    "imageSrc": "history/school.jpg"
+    "experiences": ["7.67CGPA"],
+    "imageSrc": "history/parul.png"
   },
   {
     "role": "XII Standard",
@@ -16,12 +16,11 @@
     "imageSrc": "history/college.jpeg"
   },
   {
-    "role": "B.Tech",
-    "institute": "PARUL UNIVERSITY",
+    "role": "Xth Standard",
+    "institute": "SRI CHANDRA TECHNO SCHOOL",
     "startDate": "",
     "endDate": "",
-    "experiences": ["7.51CGPA"
-    ],
-    "imageSrc": "history/parul.png"
+    "experiences": ["9.8 CGPA"],
+    "imageSrc": "history/school.jpg"
   }
 ]
