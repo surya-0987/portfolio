@@ -6,5 +6,13 @@
     "skills": [],
     "demo": "https://surya-0987.github.io/Netflix_clone/ ",
     "source": "https://github.com/surya-0987/Netflix_clone.git"
+  },
+  {
+    "title": "Simon Game",
+    "imageSrc": "projects/Simon_game.jpg",
+    "description": "Simons Says game",
+    "skills": [],
+    "demo": "https://simon-game-rosy-two.vercel.app/ ",
+    "source": "https://github.com/surya-0987/Simon_game"
   }
 ]
