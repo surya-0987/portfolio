@@ -14,5 +14,13 @@
     "skills": [],
     "demo": "https://simon-game-rosy-two.vercel.app/ ",
     "source": "https://github.com/surya-0987/Simon_game"
+  },
+  {
+    "title": "Password Generator",
+    "imageSrc": "projects/Password.png",
+    "description": "It generates a Password using letters , Symbols,  Numbers",
+    "skills": [],
+    "demo": "https://github.com/surya-0987/Password_generator ",
+    "source": "https://github.com/surya-0987/Password_generator"
   }
 ]
